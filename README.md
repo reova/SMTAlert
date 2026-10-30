@@ -26,13 +26,13 @@
 
 1. 克隆 EVEData 数据层仓库：
    ```
-   git clone https://github.com/yuruichang/SMT-EVEData.git
+   git clone https://github.com/reova/SMT-EVEData.git
    ```
 
 2. 将本仓库克隆到 EVEData 目录的 `SMTAlert` 子目录：
    ```
    cd SMT-EVEData
-   git clone https://github.com/yuruichang/SMTAlert.git SMTAlert
+   git clone https://github.com/reova/SMTAlert.git SMTAlert
    ```
 
 3. 使用 Visual Studio 打开 `SMTAlert/SMTAlert.sln` 或命令行编译：

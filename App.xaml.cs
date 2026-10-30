@@ -18,7 +18,7 @@ namespace SMTAlert
         public const string AppVersion = "2.2";
 
         /// <summary>GitHub repository path for update checks.</summary>
-        public const string GitHubRepo = "yuruichang/SMTAlert";
+        public const string GitHubRepo = "reova/SMTAlert";
 
         public static AlertConfig Config { get; private set; }
         public static CharacterManager CharacterMgr { get; private set; }

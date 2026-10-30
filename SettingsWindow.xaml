@@ -334,7 +334,7 @@
                 <Run Text="{DynamicResource Settings_Version}" />
                 <Run x:Name="VersionText" />
                 <Run Text=" | " />
-                <Hyperlink x:Name="RepoLink" NavigateUri="https://github.com/yuruichang/SMTAlert"
+                <Hyperlink x:Name="RepoLink" NavigateUri="https://github.com/reova/SMTAlert"
                            RequestNavigate="RepoLink_RequestNavigate" Foreground="#FF5588FF">
                     GitHub
                 </Hyperlink>

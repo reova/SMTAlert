@@ -32,7 +32,7 @@ A standalone WPF desktop application extracted from [SMT (Slazanger's Eve Map To
 2. Clone this repository into the `SMTAlert` subdirectory:
    ```
    cd SMT
-   git clone https://github.com/yuruichang/SMTAlert.git SMTAlert
+   git clone https://github.com/reova/SMTAlert.git SMTAlert
    ```
 
 3. Open `SMTAlert/SMTAlert.sln` in Visual Studio or build via CLI:
